@@ -10,7 +10,6 @@ But, with all this growth, we made a huge mistake. We forgot to bring you along 
 As we work closer together you will be exposed to some of our practices which may seem silly or even counterintuitive.  The DevOps community has been experimenting quite a bit over the last number of years and common practice represents the collective wisdom across many companies, industries, and countries.
 
 
-
 # From the Team
 Created by Ben Grinnell, James Wickett, Jennifer Brady, Rob Stroud, Sam Guckenheimer, Scott Nasello, Tapabrata Pal
 
