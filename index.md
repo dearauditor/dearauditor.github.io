@@ -17,11 +17,7 @@ We have compiled a list of audit concerns and documented them in a Risk Control 
 
 Please don’t misinterpret that we are backing down from speed and providing value, but we are really excited to move forward, together.
 
-XOXO,
-
-The DevOps Community
-
-
+![XOXO, The DevOps Community](/images/signoff-the-devops-community.png)
 
 # From the Team
 
