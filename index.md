@@ -1,7 +1,5 @@
 # Dear Auditor,
 
-![Dear Auditor logo](https://dearauditor.github.io/images/dear-auditor-logo.png)
-
 Dear Auditor,
 We realize that we have been changing things in a rapid fashion from Agile and DevOps to Cloud and Containers. We have been busy, and we have had great success as companies are delivering faster than ever and able to respond to business needs. (TK: Insert DevOps Survey stats). This isn’t just icing on the cake, the only sustainable advantage in our industry now is the ability to meet customer demands faster, more scalable, more reliably than our competitors and companies not working in this way are losing market share and shareholder value.
 
